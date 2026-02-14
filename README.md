@@ -14,7 +14,6 @@ Supports **phone number (11 digits)** and **CNIC (13 digits)** queries.
 ## 📋 Table of Contents
 
 - [Features](#-features)  
-- [Colors & Style](#-colors--style)  
 - [Requirements](#-requirements)  
 - [Installation](#-installation)  
 - [Usage](#-usage)  
@@ -30,32 +29,11 @@ Supports **phone number (11 digits)** and **CNIC (13 digits)** queries.
 - ✅ Phone Number Info (11 digits)  
 - ✅ CNIC Info (13 digits)  
 - ✅ Displays **all results**  
-- ✅ **Colored PAK flag banner** on startup  
-- ✅ **Author info & GitHub/Telegram handle** in colors  
-- ✅ **Bright menu options with spacing**  
-- ✅ **Bright pink `=>` arrows** for inputs  
 - ✅ **Progress bar loader** while fetching data  
-- ✅ Exits gracefully with **fun message ♥️**
 
 ---
 
-## 🎨 Colors & Style
-
-| Element                        | Color / Style          |
-|--------------------------------|----------------------|
-| Banner                         | Green & White         |
-| Author name                     | Bright Red            |
-| GitHub/Telegram handle          | Bright Blue           |
-| Menu option 1                   | Bright Green          |
-| Menu option 2                   | Bright Cyan           |
-| Exit option                     | Red                   |
-| Input arrow (`=>`)              | Bright Pink           |
-| Progress bar                    | Green                 |
-| Result headers (Result #1, #2) | Yellow                |
-| Result fields (Mobile, Name…)  | Green                 |
-| Exit message                     | Red with ♥️           |
-
----
+-
 
 ## 📦 Requirements
 
