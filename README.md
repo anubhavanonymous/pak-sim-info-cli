@@ -124,7 +124,9 @@ All Data Exposed ! Jay Hind ♥️
 ## 👨🏻‍💻 Author
 
 💠 Anubhav Kashyap
-GitHub / Telegram: @anubhavanonymous
+
+=> GitHub : https://github.com/anubhavanonymous
+=> Telegram: https://t.me/anubhavanonymous
 
 ## ⚠️ Disclaimer
 This tool is for **educational purposes only**. Accessing or misusing personal data without permission may be illegal. Use responsibly.
