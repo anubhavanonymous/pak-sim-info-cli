@@ -33,7 +33,6 @@ Supports **phone number (11 digits)** and **CNIC (13 digits)** queries.
 
 ---
 
--
 
 ## 📦 Requirements
 
