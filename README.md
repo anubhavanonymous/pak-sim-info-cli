@@ -49,7 +49,7 @@ pip install requests beautifulsoup4
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pak-sim-info-cli.git
+git clone https://github.com/anubhavanonymous/pak-sim-info-cli.git
 cd pak-sim-info-cli
 ```
 ### 2. Make the script executable (Linux/ macOS)
