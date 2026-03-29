@@ -7,7 +7,7 @@
 A **Python CLI tool** to fetch **Pakistani SIM and CNIC information** in a colorful, hacker-style terminal interface.  
 Supports **phone number (11 digits)** and **CNIC (13 digits)** queries.  
 
-> Displays **all results** in a readable, colorful format with **banner, progress bar, and arrows**.
+> Displays **all hidden records**
 
 ---
 
